@@ -1,0 +1,24 @@
+{
+  "transazioni": [],
+  "users": [
+    {
+      "email": "pippo@gmail.com",
+      "password": "$2a$10$P.FvPi71uebGFVbiSNmaj.x4.vzPqLi7.YxuTt8qxD3k/Q1vhG2Q.",
+      "nome": "Pippo",
+      "id": 1
+    },
+    {
+      "email": "pluto@gmail.com",
+      "password": "$2a$10$1CIDc5SQBXTsLs0EEWrrbO4tbCQ1AV5duJ7Ydj4oIuUJYz8XrFZiq",
+      "nome": "Pluto",
+      "id": 2
+    },
+    {
+      "email": "pluto@hotmail.com",
+      "password": "$2a$10$P9lFGTqWpzZNz.B7DufuWuB92TsCyFAH7.53VWMiAQs.ZVESaWZYC",
+      "nome": "Pluto",
+      "id": 3
+    }
+  ],
+  "pokemons": []
+}
